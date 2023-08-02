@@ -1,5 +1,5 @@
 header{
-    background-color: aquamarine;
+    background-color: black;
     height: 70px;
     position: fixed;
     width: 100%;
@@ -33,12 +33,19 @@ a{
     border: 2px solid white;
     color: white;
 }
+.a3:hover{
+    background-color: brown;
+}
+
 .a4{
     display: inline;
     padding: 5px;
     text-transform: uppercase;
     border: 2px solid white;
     color: white;
+}
+.a4:hover{
+    background-color: brown;
 }
 
 /* FOOTER*/
@@ -56,6 +63,7 @@ a{
     height: 400px;
     padding-top: 72px;
     float: left;
+    margin: opx;
 }
 .container{
     float: right;
@@ -63,6 +71,7 @@ a{
     background-color:deeppink;
     margin: 10px;
     margin-top:100px;
+   
 }
 
 .con{
@@ -71,4 +80,21 @@ a{
     text-align: justify;
     background-color:lightgreen;
     margin: 10px;
+}
+.c1{
+    height: 150px;
+    weight: 400px;
+    margin-top: 480px;
+    margin-left: 0px;
+    text-transform: uppercase;
+    color: red;
+    background-color: goldenrod;
+    padding-left: 30px;
+    padding-top: 0%;
+    position: absolute;
+}
+.c3.h3{
+    color: aqua;
+    background-color: blue;
+    
 }
