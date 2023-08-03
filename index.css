@@ -76,13 +76,14 @@ a{
 
 .con{
     float: right;
+    margin-left: 10px;
     padding-top: 10px;
     text-align: justify;
     background-color:lightgreen;
     margin: 10px;
 }
 .c1{
-    height: 150px;
+    height: 300px;
     weight: 400px;
     margin-top: 480px;
     margin-left: 0px;
